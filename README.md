@@ -1,6 +1,3 @@
-Here's how we can combine both pieces of information into a single, cohesive and engaging markdown file. The first part focuses on the project and the issues that need fixing, followed by the instructions for setting up the environment to help solve these issues.
-
-```markdown
 # 🩺 Symptom Checker Gone Rogue – Help Fix It!  
 
 ## 🚑 What's the Problem?  
