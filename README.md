@@ -11,7 +11,7 @@ I built a small **Symptom Checker** app, but it’s running into some serious is
 ## 🛠 How You Can Help  
 If you love debugging and fixing problems, I need you! 🎯 Check out the repo and help me fix these issues. Your contributions can really make a difference in making this project functional and awesome.
 
-🔗 **GitHub Repository:** [Insert Link Here]
+🔗 **GitHub Repository:** https://github.com/scriptedSyntax/symptomChecker
 
 **PRs are welcome!** Help make this app work like it’s supposed to. 🚀  
 
