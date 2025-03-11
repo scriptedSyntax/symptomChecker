@@ -17,6 +17,17 @@ If you love debugging and fixing problems, I need you! 🎯 Check out the repo a
 
 ---
 
+# 🚀 **You're ready to help!** 
+Get in there, fix those issues, and make the Symptom Checker shine! Your contributions will help make this app smarter and more reliable. 💡 Happy coding! 🎉
+
+In this combined version:
+
+1. **Project Overview:** The first section introduces the "Symptom Checker" project and highlights the issues that need fixing.  
+2. **Setup Instructions:** It then follows with clear instructions on how to get the project up and running locally, so contributors can start working on fixing the backend and other problems.  
+3. **Debugging Tips:** Specific advice is given on where to focus (e.g., symptom matching, dataset, backend, user input issues).  
+4. **Extra Commands:** Provides additional helpful commands for testing and building the app.
+
+
 # 🎉 Setup Your React Project Setup!
 
 Ready to jump in and help fix the Symptom Checker? Follow these easy steps to set up your local environment, and you’ll be debugging in no time! 🚀
@@ -90,13 +101,3 @@ Now that your app is running, it’s time to tackle those issues. Here are a few
   ```bash
   npm run build
   ```
-
-# 🚀 **You're ready to help!** 
-Get in there, fix those issues, and make the Symptom Checker shine! Your contributions will help make this app smarter and more reliable. 💡 Happy coding! 🎉
-
-In this combined version:
-
-1. **Project Overview:** The first section introduces the "Symptom Checker" project and highlights the issues that need fixing.  
-2. **Setup Instructions:** It then follows with clear instructions on how to get the project up and running locally, so contributors can start working on fixing the backend and other problems.  
-3. **Debugging Tips:** Specific advice is given on where to focus (e.g., symptom matching, dataset, backend, user input issues).  
-4. **Extra Commands:** Provides additional helpful commands for testing and building the app.
