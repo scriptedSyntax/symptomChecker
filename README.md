@@ -29,7 +29,7 @@ In this combined version:
 
 ---
 
-# 🎉 Setup Your React Project Setup!
+# 🎉 Setup The React Project Setup!
 
 Ready to jump in and help fix the Symptom Checker? Follow these easy steps to set up your local environment, and you’ll be debugging in no time! 🚀
 
