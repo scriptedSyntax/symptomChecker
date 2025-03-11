@@ -100,5 +100,3 @@ In this combined version:
 2. **Setup Instructions:** It then follows with clear instructions on how to get the project up and running locally, so contributors can start working on fixing the backend and other problems.  
 3. **Debugging Tips:** Specific advice is given on where to focus (e.g., symptom matching, dataset, backend, user input issues).  
 4. **Extra Commands:** Provides additional helpful commands for testing and building the app.
-
-This format makes it clear, engaging, and actionable for someone who wants to contribute. Let me know if you need any adjustments!
