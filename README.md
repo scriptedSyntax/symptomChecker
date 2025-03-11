@@ -91,7 +91,8 @@ Now that your app is running, it’s time to tackle those issues. Here are a few
   npm run build
   ```
 
-🚀 **You're ready to help!** Get in there, fix those issues, and make the Symptom Checker shine! Your contributions will help make this app smarter and more reliable. 💡 Happy coding! 🎉
+# 🚀 **You're ready to help!** 
+Get in there, fix those issues, and make the Symptom Checker shine! Your contributions will help make this app smarter and more reliable. 💡 Happy coding! 🎉
 
 In this combined version:
 
