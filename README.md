@@ -27,6 +27,7 @@ In this combined version:
 3. **Debugging Tips:** Specific advice is given on where to focus (e.g., symptom matching, dataset, backend, user input issues).  
 4. **Extra Commands:** Provides additional helpful commands for testing and building the app.
 
+---
 
 # 🎉 Setup Your React Project Setup!
 
@@ -87,6 +88,8 @@ Now that your app is running, it’s time to tackle those issues. Here are a few
 - **Dataset Fixes** – The dataset might need cleaning up. Check if the conditions and their corresponding weights are correct.
 - **Backend Stability** – Look into backend-related crashes or random errors. Is there a particular pattern or issue causing it to break?
 - **User Input** – Test edge cases and ensure the app handles them well. Misreads could indicate issues in input validation.
+
+---
 
 ## Extra Commands for the Pros 💪
 
